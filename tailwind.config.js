@@ -22,6 +22,10 @@ module.exports = {
           200: "#F1F0E8",
         },
       },
+      fontFamily: {
+        avenir: ["Avenir"],
+        xarrovv: ["Xarrovv"],
+      },
     },
   },
   plugins: [],
